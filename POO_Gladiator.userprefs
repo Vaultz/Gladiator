@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{DEC1A035-E778-45C3-B8CE-F210861A019C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="POO_Gladiator/Joust.cs">
+    <Files>
+      <File FileName="POO_Gladiator/Program.cs" Line="60" Column="44" />
+      <File FileName="POO_Gladiator/Joust.cs" Line="74" Column="36" />
+      <File FileName="POO_Gladiator/Gladiator.cs" Line="13" Column="2" />
+      <File FileName="POO_Gladiator/Items/Net.cs" Line="9" Column="7" />
+      <File FileName="POO_Gladiator/Items/IWeapon.cs" Line="8" Column="3" />
+      <File FileName="POO_Gladiator/Items/Stuff.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.POO__Gladiator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

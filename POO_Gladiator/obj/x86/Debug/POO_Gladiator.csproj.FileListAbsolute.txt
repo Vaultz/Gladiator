@@ -1,0 +1,10 @@
+C:\Users\B74177\Documents\projects\Gladiator\POO_Gladiator\obj\x86\Debug\POO_Gladiator.exe
+C:\Users\B74177\Documents\projects\Gladiator\POO_Gladiator\bin\Debug\POO_Gladiator.exe
+C:\Users\B74177\Documents\projects\Gladiator\POO_Gladiator\bin\Debug\POO_Gladiator.pdb
+C:\Users\B74177\Documents\projects\Gladiator\POO_Gladiator\obj\x86\Debug\POO_Gladiator.csprojResolveAssemblyReference.cache
+C:\Users\B74177\Documents\projects\Gladiator\POO_Gladiator\obj\x86\Debug\POO_Gladiator.pdb
+C:\Users\Paul Vialart\Documents\LPDW\Gladiator\POO_Gladiator\obj\x86\Debug\POO_Gladiator.exe
+C:\Users\Paul Vialart\Documents\LPDW\Gladiator\POO_Gladiator\obj\x86\Debug\POO_Gladiator.pdb
+C:\Users\Paul Vialart\Documents\LPDW\Gladiator\POO_Gladiator\bin\Debug\POO_Gladiator.exe
+C:\Users\Paul Vialart\Documents\LPDW\Gladiator\POO_Gladiator\bin\Debug\POO_Gladiator.pdb
+C:\Users\Paul Vialart\Documents\LPDW\Gladiator\POO_Gladiator\obj\x86\Debug\POO_Gladiator.csprojResolveAssemblyReference.cache
